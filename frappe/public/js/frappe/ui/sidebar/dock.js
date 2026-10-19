@@ -318,7 +318,7 @@ frappe.ui.Dock = class Dock {
 	// module sidebar the rail already reads carries both the header icon and the label.
 	module_logo() {
 		let sidebar = frappe.boot.module_sidebars[this.sidebar.current_module] || {};
-		let label = sidebar.label || this.sidebar.current_module || __("Apps");
+		let label = __(sidebar.label || this.sidebar.current_module || __("Apps"));
 		return { icon: this.entry_icon(sidebar.header_icon, label), title: label };
 	}
 
@@ -350,8 +350,8 @@ frappe.ui.Dock = class Dock {
 	// because `dock_entry` resolved its label and icon from the boot payload the same way a
 	// module's come from its sidebar, so from here on the two are the same.
 	make_dock_item(entry) {
-		let label = entry.label;
-		if (!label) return null;
+		if (!entry.label) return null;
+		let label = __(entry.label);
 		let icon = this.entry_icon(entry.icon, label);
 
 		let is_active = this.sidebar.is_active_entry(entry);

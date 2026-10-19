@@ -1758,7 +1758,7 @@ msgstr ""
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:368
 msgid "Add to the dock"
-msgstr ""
+msgstr "إضافة إلى الشريط الجانبي"
 
 #: frappe/public/js/frappe/form/footer/form_timeline.js:104
 msgid "Add to this activity by mailing to {0}"
@@ -3284,11 +3284,11 @@ msgstr "أريال"
 
 #: frappe/public/js/frappe/ui/sidebar/arrangement_editor.js:52
 msgid "Arrange"
-msgstr ""
+msgstr "ترتيب"
 
 #: frappe/public/js/frappe/ui/sidebar/arrangement_editor.js:190
 msgid "Arranging"
-msgstr ""
+msgstr "جارٍ الترتيب"
 
 #: frappe/core/page/permission_manager/permission_manager_help.html:11
 msgid "As a best practice, do not assign the same set of permission rule to different Roles. Instead, set multiple Roles to the same User."
@@ -4570,7 +4570,7 @@ msgstr "مسار التصفح"
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:90
 msgid "Bring every entry back onto the dock."
-msgstr ""
+msgstr "إعادة جميع العناصر إلى الشريط الجانبي."
 
 #. Label of the browser (Data) field in DocType 'Web Page View'
 #: frappe/website/doctype/web_page_view/web_page_view.json
@@ -6932,7 +6932,7 @@ msgstr "لا يمكن أن تجد {0}"
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:95
 msgid "Could not load the dock. Please try again."
-msgstr ""
+msgstr "تعذّر تحميل الشريط الجانبي. يُرجى المحاولة مرة أخرى."
 
 #: frappe/public/js/frappe/ui/sidebar/sidebar_manager.js:249
 msgid "Could not load the sidebar. Please try again."
@@ -9651,11 +9651,11 @@ msgstr ""
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:29
 msgid "Dock updated"
-msgstr ""
+msgstr "تم تحديث الشريط الجانبي"
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:36
 msgid "Dock updated for everyone"
-msgstr ""
+msgstr "تم تحديث الشريط الجانبي للجميع"
 
 #. Label of the doc_type (Link) field in DocType 'DuckDB Sync'
 #. Label of the ref_doctype (Link) field in DocType 'Document Follow'
@@ -10285,7 +10285,7 @@ msgstr ""
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:89
 msgid "Drag to reorder. The eye takes an entry off the dock."
-msgstr ""
+msgstr "اسحب لإعادة الترتيب. انقر رمز العين لإخفاء عنصر من الشريط الجانبي."
 
 #: frappe/public/js/frappe/ui/sidebar/sidebar_manager.js:592
 msgid "Draw it as a row with its entries nested under it, rather than as a heading over them."
@@ -10315,7 +10315,7 @@ msgstr "هبوط قطرة"
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:263
 msgid "Drops every person's own arrangement of this rail as well as the site's, so everybody is back on what the app ships."
-msgstr ""
+msgstr "يحذف الترتيب الخاص لكل شخص وترتيب الموقع لهذا الشريط، ليعود الجميع إلى الترتيب الذي يوفّره التطبيق."
 
 #. Name of a DocType
 #. Label of a Sidebar Item
@@ -11583,7 +11583,7 @@ msgstr "نوع الكيان"
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:87
 #: frappe/public/js/frappe/ui/sidebar/sidebar_manager.js:232
 msgid "Entries"
-msgstr ""
+msgstr "العناصر"
 
 #: frappe/public/js/frappe/list/base_list.js:1306
 #: frappe/public/js/frappe/ui/filters/filter.js:16
@@ -11807,7 +11807,7 @@ msgstr "كل شخص"
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:323
 msgid "Everyone is back on the dock this app ships"
-msgstr ""
+msgstr "أُعيد الشريط الجانبي للجميع إلى الترتيب الذي يوفّره التطبيق"
 
 #. Description of the 'Custom Options' (Code) field in DocType 'Dashboard
 #. Chart'
@@ -12110,7 +12110,7 @@ msgstr ""
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:79
 msgid "Export to app"
-msgstr ""
+msgstr "تصدير إلى التطبيق"
 
 #. Label of the export_without_main_header (Check) field in DocType 'Data
 #. Export'
@@ -12128,7 +12128,7 @@ msgstr "سيتم مزامنة الأذونات المصدرة إجبارياً �
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:47
 msgid "Exported to the app"
-msgstr ""
+msgstr "تم التصدير إلى التطبيق"
 
 #. Label of the expose_recipients (Data) field in DocType 'Email Queue'
 #: frappe/email/doctype/email_queue/email_queue.json
@@ -13407,7 +13407,7 @@ msgstr "للمقارنة، استخدم >5 أو <10 أو =324. للنطاقات�
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:34
 #: frappe/public/js/frappe/ui/sidebar/sidebar_manager.js:39
 msgid "For everyone"
-msgstr ""
+msgstr "للجميع"
 
 #: frappe/public/js/frappe/utils/dashboard_utils.js:165
 #: frappe/website/doctype/web_form/web_form.js:350
@@ -15042,7 +15042,7 @@ msgstr ""
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:418
 msgid "How it reads on the rail."
-msgstr ""
+msgstr "النص الذي سيظهر على الشريط الجانبي."
 
 #. Description of the 'Number Format' (Select) field in DocType 'Currency'
 #: frappe/geo/doctype/currency/currency.json
@@ -17200,7 +17200,7 @@ msgstr "الاصناف"
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:439
 msgid "Its sidebar is derived from the module that owns it."
-msgstr ""
+msgstr "يُحدَّد شريطه الجانبي استنادًا إلى الوحدة التي تتبعه."
 
 #. Option for the 'Print Format Type' (Select) field in DocType 'Print Format'
 #: frappe/printing/doctype/print_format/print_format.json
@@ -17341,7 +17341,7 @@ msgstr "القفز الى الميدان"
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:28
 #: frappe/public/js/frappe/ui/sidebar/sidebar_manager.js:32
 msgid "Just for me"
-msgstr ""
+msgstr "لي فقط"
 
 #: frappe/public/js/print_format_builder/components/inspector/SectionPropertiesPanel.vue:70
 msgid "Justify"
@@ -18055,7 +18055,7 @@ msgstr "ترك هذه المحادثة"
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:440
 msgid "Leaves the desk. It has no sidebar."
-msgstr ""
+msgstr "يفتح صفحة خارج النظام، وليس لها شريط جانبي."
 
 #. Option for the 'PDF Page Size' (Select) field in DocType 'Print Settings'
 #: frappe/printing/doctype/print_settings/print_settings.json
@@ -18711,7 +18711,7 @@ msgstr ""
 #: frappe/public/js/frappe/widgets/number_card_widget.js:189
 #: frappe/public/js/frappe/widgets/quick_list_widget.js:129
 msgid "Loading..."
-msgstr "تحميل ..."
+msgstr "جارٍ التحميل..."
 
 #: frappe/core/page/permission_manager/permission_manager.js:615
 msgid "Loading…"
@@ -19106,7 +19106,7 @@ msgstr "إدارة الفواتير"
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:73
 #: frappe/public/js/frappe/ui/sidebar/sidebar.js:538
 msgid "Manage Dock"
-msgstr ""
+msgstr "إدارة الشريط الجانبي"
 
 #: frappe/public/js/frappe/list/list_filter/list_filter_menu.js:61
 #: frappe/public/js/frappe/list/list_filter/manage_layouts_dialog.js:11
@@ -19127,7 +19127,7 @@ msgstr ""
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:73
 msgid "Manage {0} Dock"
-msgstr ""
+msgstr "إدارة الشريط الجانبي لـ{0}"
 
 #: frappe/public/js/frappe/ui/sidebar/sidebar_manager.js:110
 msgid "Manage {0} Sidebar"
@@ -21873,7 +21873,7 @@ msgstr "لم يتبق شيء للتراجع عنه"
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:94
 msgid "Nothing on the dock"
-msgstr ""
+msgstr "لا توجد عناصر في الشريط الجانبي"
 
 #: frappe/public/js/frappe/ui/sidebar/sidebar_manager.js:248
 msgid "Nothing on the sidebar"
@@ -22783,7 +22783,7 @@ msgstr ""
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:438
 msgid "Opens the module's home and shows its sidebar."
-msgstr ""
+msgstr "يفتح الصفحة الرئيسية للوحدة ويعرض شريطها الجانبي."
 
 #. Label of the operation (Select) field in DocType 'Activity Log'
 #: frappe/core/doctype/activity_log/activity_log.json
@@ -23958,7 +23958,7 @@ msgstr ""
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:457
 msgid "Pick something for it to open."
-msgstr ""
+msgstr "اختر العنصر الذي تريد فتحه."
 
 #. Option for the 'Type' (Select) field in DocType 'Dashboard Chart'
 #: frappe/desk/doctype/dashboard_chart/dashboard_chart.json
@@ -27115,7 +27115,7 @@ msgstr "إعادة الضبط إلى الإعدادات الافتراضية"
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:262
 msgid "Reset for everyone"
-msgstr ""
+msgstr "إعادة التعيين للجميع"
 
 #: frappe/templates/emails/password_reset.html:5
 msgid "Reset password"
@@ -29873,11 +29873,11 @@ msgstr ""
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:252
 msgid "Ship this off by default"
-msgstr ""
+msgstr "إخفاء هذا افتراضيًا في التطبيق"
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:45
 msgid "Ship with the app"
-msgstr ""
+msgstr "تضمينه مع التطبيق"
 
 #. Option for the 'Address Type' (Select) field in DocType 'Address'
 #: frappe/contacts/doctype/address/address.json
@@ -29911,7 +29911,7 @@ msgstr "اختصارات"
 #: frappe/public/js/frappe/widgets/base_widget.js:181
 #: frappe/public/js/print_format_builder/components/inspector/FieldPropertiesPanel.vue:116
 msgid "Show"
-msgstr "تبين"
+msgstr "إظهار"
 
 #. Label of the show_absolute_datetime_in_timeline (Check) field in DocType
 #. 'System Settings'
@@ -32805,7 +32805,7 @@ msgstr ""
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:93
 msgid "The dock as this arrangement leaves it."
-msgstr ""
+msgstr "معاينة الشريط الجانبي وفقًا لهذا الترتيب."
 
 #: frappe/public/js/frappe/views/interaction.js:306
 msgid "The document could not be correctly assigned"
@@ -33239,7 +33239,7 @@ msgstr "هذا الإجراء مسموح به فقط لـ {}"
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:91
 msgid "This app has nothing to arrange"
-msgstr ""
+msgstr "لا يحتوي هذا التطبيق على عناصر لترتيبها"
 
 #: frappe/public/js/print_format_builder/stores/index.js:445
 msgid "This can't be saved with a Typst block: {0}"
@@ -33315,7 +33315,7 @@ msgstr ""
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:317
 msgid "This drops the dock arrangement of every person on this site for {0}, and the site's own, back to what the app ships. It cannot be undone."
-msgstr ""
+msgstr "سيحذف هذا ترتيب الشريط الجانبي لكل شخص في هذا الموقع لتطبيق {0}، وكذلك ترتيب الموقع، ويعيد الجميع إلى ترتيب التطبيق. لا يمكن التراجع عن ذلك."
 
 #: frappe/templates/emails/auto_repeat_fail.html:7
 msgid "This email is autogenerated"
@@ -33885,7 +33885,7 @@ msgstr "نصيحة: جرّب وحدة التحكم المنسدلة الجديد
 #: frappe/website/doctype/website_sidebar/website_sidebar.json
 #: frappe/website/doctype/website_sidebar_item/website_sidebar_item.json
 msgid "Title"
-msgstr "اللقب"
+msgstr "العنوان"
 
 #. Label of the title_field (Data) field in DocType 'DocType'
 #. Label of the title_field (Data) field in DocType 'Customize Form'
@@ -36510,7 +36510,7 @@ msgstr "عرض ويب"
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:377
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:406
 msgid "Web address"
-msgstr ""
+msgstr "عنوان الويب"
 
 #. Name of a DocType
 #. Label of the webhook (Link) field in DocType 'Webhook Request Log'
@@ -36837,7 +36837,7 @@ msgstr ""
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:373
 msgid "What it opens"
-msgstr ""
+msgstr "ما الذي سيفتحه"
 
 #. Description of the 'Link Type' (Select) field in DocType 'Dock Item'
 #: frappe/desk/doctype/dock_item/dock_item.json
@@ -38306,7 +38306,7 @@ msgstr ""
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:288
 msgid "app ships this off"
-msgstr ""
+msgstr "التطبيق يخفي هذا افتراضيًا"
 
 #: frappe/public/js/frappe/ui/sort_selector.html:5
 #: frappe/public/js/frappe/ui/sort_selector.js:50
@@ -40020,7 +40020,7 @@ msgstr ""
 
 #: frappe/public/js/frappe/ui/sidebar/dock_manager.js:278
 msgid "{0} of this app's modules are on no tier at all"
-msgstr ""
+msgstr "هناك {0} من وحدات هذا التطبيق غير مدرجة في أي مستوى"
 
 #: frappe/desk/reportview.py:785 frappe/desk/reportview.py:801
 #: frappe/public/js/frappe/list/list_view.js:1787
@@ -40529,4 +40529,3 @@ msgstr "{} غير موجود في متغير PATH! هذا مطلوب لإنشا�
 #: frappe/public/js/frappe/file_uploader/WebLink.vue:4
 msgid "← Back to upload files"
 msgstr "← العودة إلى صفحة تحميل الملفات"
-

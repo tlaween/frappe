@@ -130,6 +130,10 @@
 	text-overflow: ellipsis;
 }
 
+.settings-dialog-wrapper:lang(ar) .settings-dialog-tab-label {
+	line-height: 1.5;
+}
+
 .settings-dialog-panels {
 	display: flex;
 	flex-direction: column;
